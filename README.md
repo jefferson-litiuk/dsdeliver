@@ -23,7 +23,7 @@ O projeto dsdeliver é App desenvolvido durante a 2ª ed. do evento Semana DevSu
 
 
 
-<h3>🖥 Tecnologias ultilizadas</h3>
+<h3>🖥 Tecnologias utilizadas</h3>
 
 - JDK 11
 - STS
